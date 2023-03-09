@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
     mostrarCarrito()
 })
 
-fetch("/assets/js/stock.json")
+fetch("../js/stock.json")
     .then(response => response.json())
     .then(data => {
         stockProductos = data;
