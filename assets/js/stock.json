@@ -1,0 +1,83 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Proteina Whey Protein 3kg",
+        "cantidad": 1,
+        "desc": "Suplemento para la ganancia de masa muscular",
+        "precio": 15000,
+        "img": "/assets/img/proteina.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Creatina Star Nutrition 300g",
+        "cantidad": 1,
+        "desc": "Mejora el rendimiento del ejercicio y aumenta la masa muscular",
+        "precio": 11000,
+        "img": "/assets/img/creatina.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Mass Gainer 3kg",
+        "cantidad": 1,
+        "desc": "Potencia de tu entrenamiento y gana musculatura de calidad en poco tiempo",
+        "precio": 6999,
+        "img": "/assets/img/mass.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Pre Entreno B-Nox 633g",
+        "cantidad": 1,
+        "desc": "Aumenta el rendimiento y retrasar la fatiga",
+        "precio": 41000,
+        "img": "/assets/img/preentreno.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "L-Glutamina 250g",
+        "cantidad": 1,
+        "desc": "Previene el catabolismo muscular. Ayuda a mantener un sistema digestivo óptimo.",
+        "precio": 3953,
+        "img": "/assets/img/glutamina.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "L-Arginina 500g",
+        "cantidad": 1,
+        "desc": "Estimula la liberación de hormona del crecimiento, insulina y otras sustancias en el cuerpo.",
+        "precio": 7350,
+        "img": "/assets/img/arginina.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Betaina 648mg",
+        "cantidad": 1,
+        "desc": "Mejora el rendimiento, incrementa la fuerza, y aumenta la resistencia muscular.",
+        "precio": 14500,
+        "img": "/assets/img/betaina.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "BCAA 540g",
+        "cantidad": 1,
+        "desc": "Protege nuestra reservas de glucógeno y refuerzan el sistema inmunológico.",
+        "precio": 6680,
+        "img": "/assets/img/bcaa.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Magnesio 60Caps",
+        "cantidad": 1,
+        "desc": "Ayuda a mantener el funcionamiento normal de músculos y nervios, brinda soporte a un sistema inmunitario saludable.",
+        "precio": 6000,
+        "img": "/assets/img/magnesio.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Carnitina",
+        "cantidad": 1,
+        "desc": "Favorece la utilización de grasas para ser transformadas en energía en lugar de usar los azúcares.",
+        "precio": 1200,
+        "img": "/assets/img/carnitina.jpg"
+    }
+]
